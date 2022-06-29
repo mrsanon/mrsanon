@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://github.com/mrsanon"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+MR-SANON;Im+a+STUDENT🇱🇰🏅" alt="UwU">
+  <a href="https://github.com/mrsanon"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+MR-SANON;I+AM+WEB+DEVALOPER🕺" alt="UwU">
 </p>
+
 
 ---------
 
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 
 </p>
 
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
   ### My statistic
 
